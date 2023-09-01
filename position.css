@@ -1,0 +1,51 @@
+div{
+width: 100px;
+height:100px;
+}
+
+
+
+#relative-example{
+position: relative;
+left: 20px;
+top: 20px;
+border: 2px solid red;
+background-color: aqua;
+}
+
+#relative-example:hover{
+
+background-color: blue;
+
+}
+
+
+#relatives{
+position: relative;
+left: 20px;
+top: 20px;
+border: 2px solid yellow;
+background-color:green;
+}
+
+#absolut{
+position: absolute;
+bottom: 10pc;
+right: 20px;
+border: 2px solid brown;
+background-color:green;
+border-radius: 100px;
+
+}
+
+#fixed-example{
+position: fixed;
+right: 20px;
+top: 20px;
+border: 2px solid blue;
+background-color:green;
+
+
+
+
+}

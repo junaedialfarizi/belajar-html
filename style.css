@@ -1,6 +1,43 @@
-table,
-th,
-td {
-  border: 1px solid black;
-  border-collapse: collapse;
+.navbarli{
+font-size: medium;
+text color: #000;
+
+}
+
+nav {
+background-color: rgb(96, 126, 143);
+  color: white;
+
+}
+  background-color: rgb(96, 126, 143);
+  color: white;
+
+
+.container-table{
+
+  margin: auto;
+}
+
+table{
+border:double;
+
+}
+
+.artikel{
+
+text-align: center;
+
+}
+
+
+.profil{
+font-family: 'Times New Roman', Times, serif;
+font-size:medium;
+
+}
+
+h3{
+background-color: aqua;
+padding: 20px;
+
 }
